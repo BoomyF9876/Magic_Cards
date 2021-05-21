@@ -1,0 +1,14 @@
+.cards-wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 265px);
+  justify-content: space-between;
+  
+  .card {
+    margin-top: 30px;
+  }
+
+}
+.loading-bar,
+.error-text {
+  margin: 30px auto;
+}

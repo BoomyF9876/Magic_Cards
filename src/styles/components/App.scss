@@ -1,0 +1,17 @@
+.app {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+
+  .selector-wrapper {
+    display: flex;
+    margin-top: 15px;
+    .selector {
+      flex: 0.3;
+      padding-right: 15px;
+    }
+    .selector-button {
+      width: 100px;
+    }
+  }
+}
