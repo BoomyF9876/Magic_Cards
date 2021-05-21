@@ -1,6 +1,6 @@
-###### Basic scripts
+## Basic scripts
 
-To install all the npm packages needed for this project:\
+To install all the npm packages needed for this project:
 ``` 
 npm install
 ```
